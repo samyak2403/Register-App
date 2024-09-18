@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561899137683",
+    "project_id": "login-app-5e56b",
+    "storage_bucket": "login-app-5e56b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561899137683:android:76fab238860622f60c7b66",
+        "android_client_info": {
+          "package_name": "com.samyak2403.registerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrCWJE--CW-7ttLNLsq-49DCbUP4DS9_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
